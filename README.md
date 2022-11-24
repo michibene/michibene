@@ -36,7 +36,7 @@ This curiosity and eagerness resulted in the completion of the junior programmer
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" title="Sequelize" alt="Sequelize" width="40" height="40" />
 </div>
 
-#### Other design tools:
+Other design tools:
 
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" title="Adobe XD" alt="Adobe XD" width="40" height="40" />
