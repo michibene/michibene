@@ -45,3 +45,9 @@ Other design tools:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" title="Blender" alt="Blender" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webflow/webflow-original.svg" title="Webflow" alt="Webflow" width="40" height="40" />
 </div>
+
+&nbsp;
+
+## 🔥 My Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michibene&layout=compact&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
